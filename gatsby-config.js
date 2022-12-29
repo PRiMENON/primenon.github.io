@@ -21,6 +21,17 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-VR5GZECK5N"
+        ],
+        pluginConfig: {
+          head: true,
+        }
+      }
+    }
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-image`,
