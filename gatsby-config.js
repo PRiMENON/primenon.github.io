@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "primenon.github.io",
   siteMetadata: {
     title: `PRiMENON.log`,
     author: {

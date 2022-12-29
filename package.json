@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "PRiMENON",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "",
+  "version": "0.0.1",
+  "author": "PRiMENON",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -28,6 +28,7 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "prettier": "^2.8.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
@@ -40,6 +41,7 @@
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
