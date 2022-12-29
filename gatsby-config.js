@@ -31,7 +31,7 @@ module.exports = {
           head: true,
         }
       }
-    }
+    },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-image`,
