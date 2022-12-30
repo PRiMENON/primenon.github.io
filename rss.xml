@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://primenon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Dec 2022 07:22:25 GMT</lastBuildDate><item><title><![CDATA[おはこんばんちは]]></title><description><![CDATA[ブログを始めてみた（n回目）。 MovableType、WordPress、Blogger、Tumblr…]]></description><link>https://primenon.github.io/20221229-01/</link><guid isPermaLink="false">https://primenon.github.io/20221229-01/</guid><pubDate>Thu, 29 Dec 2022 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ブログを始めてみた（n回目）。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://primenon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Dec 2022 07:58:58 GMT</lastBuildDate><item><title><![CDATA[配信をやめることにした話]]></title><description><![CDATA[Twitter でつぶやいた通り、配信をやめることにしました。 視聴者が増えないとか、他の人とイザコザがあったとか、近所から騒音の苦情があったとか、ゲームに飽きたとか、Twitterで悪口を見たとか、そういったことではありません。 現在、Twitch…]]></description><link>https://primenon.github.io/20221230-01/</link><guid isPermaLink="false">https://primenon.github.io/20221230-01/</guid><pubDate>Fri, 30 Dec 2022 07:57:00 GMT</pubDate><content:encoded>&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;配信引退します&lt;/p&gt;&amp;mdash; ぼっちざPRiMENON (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1603895651623763968?ref_src=twsrc%5Etfw&quot;&gt;December 16, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Twitter でつぶやいた通り、配信をやめることにしました。&lt;/p&gt;
+&lt;p&gt;視聴者が増えないとか、他の人とイザコザがあったとか、近所から騒音の苦情があったとか、ゲームに飽きたとか、Twitterで悪口を見たとか、そういったことではありません。&lt;/p&gt;
+&lt;p&gt;現在、Twitch のアフィリエイトプログラム参加者になっています。
+ただ、他の配信者さんのようにサブスクライブしてくれたリスナーさんが使えるスタンプを作って提供したり、配信を楽しんでもらえるような企画などを継続的に出来ておらず、ただ単に配信しているだけならアフィリエイトプログラム参加者を続けることが後ろめたい気持ちになっちゃいました。
+ここで配信をやめることにしました。&lt;/p&gt;
+&lt;p&gt;これまで多くのリスナーと知り合えて良かったと思います。これまで配信に足を運んでいただきありがとうございました。&lt;/p&gt;
+&lt;h2&gt;「配信」との出会い&lt;/h2&gt;
+&lt;p&gt;私が、「配信」に出会ったのは2019年に惜しくもサービス終了となった個人運営の配信サイト CaveTube（かべつべ）からでした。&lt;br&gt;
+当時、Adobe Flash Player が全盛の時代で、世の中の動画は Flash によって作られていたと言っても過言ではなかったです。&lt;/p&gt;
+&lt;p&gt;CaveTube は、（今は当たり前にある Twitch のサブスクやビッツ、YouTube の投げ銭のような）視聴者から投げ銭をもらう機能はありませんでした。
+「配信者」は配信を無料で出来る、「サービス提供者」は配信ページに表示される Amazon アフィリエイトから得る収入でサイトを運営する、ウィンウイン？の関係で成り立っていました。&lt;/p&gt;
+&lt;p&gt;Twitter でフォロワーが CaveTube でゲームを配信しているのを見かけて、そこから配信を始めました。
+今の自分もずっと変わらないのですが、投げ銭とか視聴者数はどうでもよくて、自分が配信が出来て同じゲーム好きの方とコミュニケーションができればそれで十分でした。&lt;/p&gt;
+&lt;p&gt;配信を始めてからゲームを始めたと記憶しています。&lt;/p&gt;
+&lt;h2&gt;使ったことがある配信サービス&lt;/h2&gt;
+&lt;p&gt;個人利用できる配信サービスにアカウントを作って試しに配信するブームが自分の中で一時期ありました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CaveTube 2019年終了&lt;/li&gt;
+&lt;li&gt;mixer（旧 Beam） 2020年7月サービス終了&lt;/li&gt;
+&lt;li&gt;ustream 2018年8月無料サービス終了&lt;/li&gt;
+&lt;li&gt;Twitch（旧 Justin.tv）&lt;/li&gt;
+&lt;li&gt;YouTube&lt;/li&gt;
+&lt;li&gt;ツイキャス&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;単純に、配信しないだけです。&lt;/p&gt;
+&lt;p&gt;配信しながらゲームするとき、著作権の都合があり、著作権フリーの音楽を流す必要があります。
+一方、配信しないでゲームするとき、Spotify で好きな音楽を聞きながらゲームが出来て最の高なことに気づきました。&lt;/p&gt;
+&lt;p&gt;ゲームもやりつつ、自分のスキルアップ目的でこのサイトを育てていければいいなと。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[おはこんばんちは]]></title><description><![CDATA[ブログを始めてみた（n回目）。 MovableType、WordPress、Blogger、Tumblr…]]></description><link>https://primenon.github.io/20221229-01/</link><guid isPermaLink="false">https://primenon.github.io/20221229-01/</guid><pubDate>Thu, 29 Dec 2022 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ブログを始めてみた（n回目）。&lt;/p&gt;
 &lt;p&gt;MovableType、WordPress、Blogger、Tumblr、はてなブログ（旧名はてなダイアリー）など、数々のブログを触ってきました。
 当時、流行っていたミクシィも利用していたけど、自分には合わずにやめてしまいました。&lt;/p&gt;
 &lt;p&gt;はてなブログに関しては、簡単に作れるので、作っては消し、作っては消しを繰り返して、結果としては続かずやめてしまいました。&lt;/p&gt;
