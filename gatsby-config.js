@@ -15,7 +15,7 @@ module.exports = {
       summary: `tail -f /var/log/primenon.log`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://primenon.github.io/`,
+    siteUrl: `https://www.primenon.com/`,
     social: {
       twitter: `PRiMENON`,
     },
