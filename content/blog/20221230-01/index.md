@@ -3,6 +3,7 @@ title: 配信をやめることにした話
 date: "2022-12-30T16:57:00+09:00"
 description: "Twitter でつぶやいた通り、配信をやめることにしました。"
 tags: ["雑記"]
+draft: false
 ---
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">配信引退します</p>&mdash; ぼっちざPRiMENON (@PRiMENON) <a href="https://twitter.com/PRiMENON/status/1603895651623763968?ref_src=twsrc%5Etfw">December 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
