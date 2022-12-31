@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Dec 2022 13:03:14 GMT</lastBuildDate><item><title><![CDATA[test]]></title><description><![CDATA[test.]]></description><link>https://www.primenon.com/20221231-01/</link><guid isPermaLink="false">https://www.primenon.com/20221231-01/</guid><pubDate>Sat, 31 Dec 2022 03:31:00 GMT</pubDate><content:encoded>&lt;p&gt;test.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[配信をやめることにした話]]></title><description><![CDATA[Twitter でつぶやいた通り、配信をやめることにしました。 視聴者が増えないとか、他の人とイザコザがあったとか、近所から騒音の苦情があったとか、ゲームに飽きたとか、Twitterで悪口を見たとか、そういったことではありません。 現在、Twitch…]]></description><link>https://www.primenon.com/20221230-01/</link><guid isPermaLink="false">https://www.primenon.com/20221230-01/</guid><pubDate>Fri, 30 Dec 2022 07:57:00 GMT</pubDate><content:encoded>&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;配信引退します&lt;/p&gt;&amp;mdash; ぼっちざPRiMENON (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1603895651623763968?ref_src=twsrc%5Etfw&quot;&gt;December 16, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 31 Dec 2022 09:03:57 GMT</lastBuildDate><item><title><![CDATA[2022年を振り返る]]></title><description><![CDATA[所謂、「1年あっという間」でした。2022年を振り返っておきたい。 「ブログに残さなくてもインターネットを探せば載ってるだろ！」と思いがちです。昔はたしかにそうでした。SNS…]]></description><link>https://www.primenon.com/20221231-01/</link><guid isPermaLink="false">https://www.primenon.com/20221231-01/</guid><pubDate>Sat, 31 Dec 2022 07:15:00 GMT</pubDate><content:encoded>&lt;p&gt;所謂、「1年あっという間」でした。2022年を振り返っておきたい。&lt;/p&gt;
+&lt;p&gt;「ブログに残さなくてもインターネットを探せば載ってるだろ！」と思いがちです。昔はたしかにそうでした。SNS が浸透したいま、ブログを書く人が減って、「インターネットに載せている人」自体が減っています。&lt;/p&gt;
+&lt;p&gt;自分の感じた時間の流れを記録することは重要、とつくづく思います。人間の記憶は結構曖昧で、適当なのです。&lt;/p&gt;
+&lt;h2&gt;新型コロナウイルス感染症3年目、収束せず&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2502-idsc/iasr-in/9818-486d01.html&quot;&gt;2020年1月15日に日本で初めての感染者が確認されました&lt;/a&gt;。2022年12月で3年が経過し、2023年で4年目に突入します。&lt;/p&gt;
+&lt;p&gt;日本で1918年に流行したスペインかぜは、収束まで3年がかかったそうです。コロナウイルスは4年目に入るため、1918年の日本の人たちに2023年の私たちは負けたと言っていいのではないでしょうか。&lt;/p&gt;
+&lt;p&gt;1918年の医療技術は今と比べたら比較にならないほどだったのに、現代の私たちより早く収束させています。すごい。&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;1918年に流行したスペインかぜ、日本で終息まで3年かかった。&lt;br&gt;コロナウイルス、日本での確認は2020年1月なので1年と8ヶ月経過。&lt;br&gt;大正時代と令和時代の日本人、どちらか先に終息できるか自分のなかで勝負している。&lt;br&gt;&lt;br&gt;出典：新型コロナウイルス感染症第一例（国立感染症研究所）&lt;a href=&quot;https://t.co/pLfWlFOauz&quot;&gt;https://t.co/pLfWlFOauz&lt;/a&gt; &lt;a href=&quot;https://t.co/GtCJbpmkya&quot;&gt;pic.twitter.com/GtCJbpmkya&lt;/a&gt;&lt;/p&gt;&amp;mdash; ぼっちざPRiMENON (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1428336606704898056?ref_src=twsrc%5Etfw&quot;&gt;August 19, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQY0x3L226CMACAYd7/qTY1blBaqOgQK6XnA20xHGayuyUk/8V/82Xr9l7X97L3+/6jgygKSJ7UuOB8dD4aO/aUQVTH9JqXTSozL9tg5kGmrLl1/SCsD1I5Y8d7Ry7XH8aV9dG4oLRzY3oQ2nYkTjMTGjc3N8aG2ByT7HQu2vvDec+FFFIxLtI0SaWl0lobLoR1ngvBhQwpKW2ZkCGmGMOzp9n5G7QdsW5kOx4YN9YrY7lUUhmhdJxeXCi+m2XdekqdD9aNbffMAMQ1viJUlyWCqPrKC3xpqgoXoAQQAQhBCT+Px8PxhCqcF2CfGqL643D6B6NABTgDfXtiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;E9J2xDNVcAI5ZAs&quot;
+        title=&quot;E9J2xDNVcAI5ZAs&quot;
+        src=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/f058b/E9J2xDNVcAI5ZAs.png&quot;
+        srcset=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/c26ae/E9J2xDNVcAI5ZAs.png 158w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/6bdcf/E9J2xDNVcAI5ZAs.png 315w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/f058b/E9J2xDNVcAI5ZAs.png 630w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/a6d36/E9J2xDNVcAI5ZAs.png 650w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;
+出典:&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%8B%E3%81%9C&quot;&gt;スペインかぜ&lt;/a&gt;（ウィキペディア日本語版）&lt;/p&gt;
+&lt;p&gt;2021年よりも外出制限が緩くなり、緊急事態宣言もよっぽどのことがない限り発令しなくなりました。マスクの着用や手指の消毒が生活の一部になって、国民は慣れてきたように思います。NHK のインタビューを受けていた人がこう言ってました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（コロナは）いつ終わるか分からない、終わらないかもしれない&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;いつまで続くのか、誰にもわかりません。&lt;/p&gt;
+&lt;h2&gt;物価上昇&lt;/h2&gt;
+&lt;p&gt;卵、牛乳、サラダ油、パン、小麦粉、野菜、醤油…数え切れないほどの日用品から食料品まであらゆるものが値上がりしました。&lt;/p&gt;
+&lt;p&gt;2023年も値上がり続けるんでしょうか。自分たちの給料は上がる気配がないのに…。&lt;/p&gt;
+&lt;h2&gt;テレワーク、在宅勤務&lt;/h2&gt;
+&lt;p&gt;電車の混み具合はコロナ前に戻ったと感じています。みんな、在宅勤務をやめてしまったんでしょうか。新入社員は「在宅より出社したい」、管理職は「在宅だと部下が仕事しているか分からない」らしいです。&lt;/p&gt;
+&lt;p&gt;在宅勤務するなら、社員同士のコミュニケーション手段、社員の人事評価、在宅勤務と出社勤務の平等の扱い、在宅勤務でかかる経費の会社負担（電気代など）は会社側が準備する必要はありますので、そこまでカバー出来ない企業はやめたんじゃないかなと。&lt;/p&gt;
+&lt;p&gt;在宅勤務が日常になると、企業が用意した働きやすいオフィスやフリードリンクを利用する機会が減ってしまい、もったいないですね。そういうのがあるなら、出社したい気持ちも分かります。&lt;/p&gt;
+&lt;h2&gt;体重が落とせた&lt;/h2&gt;
+&lt;p&gt;良かったことの一つです。&lt;/p&gt;
+&lt;p&gt;コロナで外出自粛して、在宅勤務でほぼ自宅にいるのに、食べる量が変わらなかったので体重が増えました。健康診断の体重も毎年上昇していてさすがにこれはまずいと思い、2021年から部屋から出なくても出来る自重トレーニングを始めました。&lt;/p&gt;
+&lt;p&gt;きっかけは、NHK番組『みんなで筋肉体操』です。筋トレ・ダイエットでやることといえば、ランニング・ジョギング・ジムに通う、だと思います。昔、ランニングやジョギングはやったことがありますが、週末しかやってなくてほとんど体重は落ちず、やめちゃいました。&lt;/p&gt;
+&lt;p&gt;筋肉体操は外出しなくても、筋トレグッズを買わなくても出来る筋トレだったので、具合が悪い時以外毎日やるようにして、さらに体重を毎日計測するようにしました。&lt;/p&gt;
+&lt;p&gt;無理しなくていいし、自分が出来る範囲でやることにしてます。自分の場合、例えば腕立て伏せを○回やると回数を決めるのではなく、筋肉体操の動画を見ながら、腕立て伏せの基本に沿って30秒間やる、にしてます。筋肉体操によると、正しいやり方でやれば回数を何回もやる必要はないそうで、腕立て100回とかはやる必要がないみたいです。&lt;/p&gt;
+&lt;p&gt;結果として、7～8kg減量出来ました。標準体重に近づいて良かったです。&lt;/p&gt;
+&lt;p&gt;皆さん良いお年をお迎えください。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[配信をやめることにした話]]></title><description><![CDATA[Twitter でつぶやいた通り、配信をやめることにしました。 視聴者が増えないとか、他の人とイザコザがあったとか、近所から騒音の苦情があったとか、ゲームに飽きたとか、Twitterで悪口を見たとか、そういったことではありません。 現在、Twitch…]]></description><link>https://www.primenon.com/20221230-01/</link><guid isPermaLink="false">https://www.primenon.com/20221230-01/</guid><pubDate>Fri, 30 Dec 2022 07:57:00 GMT</pubDate><content:encoded>&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;配信引退します&lt;/p&gt;&amp;mdash; ぼっちざPRiMENON (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1603895651623763968?ref_src=twsrc%5Etfw&quot;&gt;December 16, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;p&gt;Twitter でつぶやいた通り、配信をやめることにしました。&lt;/p&gt;
 &lt;p&gt;視聴者が増えないとか、他の人とイザコザがあったとか、近所から騒音の苦情があったとか、ゲームに飽きたとか、Twitterで悪口を見たとか、そういったことではありません。&lt;/p&gt;
 &lt;p&gt;現在、Twitch のアフィリエイトプログラム参加者になっています。
