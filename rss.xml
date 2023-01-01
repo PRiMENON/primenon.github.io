@@ -1,4 +1,174 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 01 Jan 2023 08:09:04 GMT</lastBuildDate><item><title><![CDATA[謹賀新年]]></title><description><![CDATA[新年あけましておめでとうございます。 年末にプレ公開して SNS 等には載せていませんので誰も見てなさそうですが、2023年もどうぞよろしくお願いします。なるべく更新できるようにしたいです。 1月4日から日常が始まる勢なので、正月気分は一瞬です。 このブログの gatsby.js…]]></description><link>https://www.primenon.com/20230101-01/</link><guid isPermaLink="false">https://www.primenon.com/20230101-01/</guid><pubDate>Sun, 01 Jan 2023 07:43:00 GMT</pubDate><content:encoded>&lt;p&gt;新年あけましておめでとうございます。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 01 Jan 2023 13:21:23 GMT</lastBuildDate><item><title><![CDATA[DELL Inspiron 5320 開発環境構築]]></title><description><![CDATA[Dell Inspiron 13(5320)を買いました。 開発環境を構築するメモです。 Windows 11 Windows 11は、メールアドレスが必須になっています。Microsoftアカウントが必要で、なければその場で作成する必要があります。
+Microsoft…]]></description><link>https://www.primenon.com/20230102-01/</link><guid isPermaLink="false">https://www.primenon.com/20230102-01/</guid><pubDate>Mon, 02 Jan 2023 07:43:00 GMT</pubDate><content:encoded>&lt;p&gt;Dell Inspiron 13(5320)を買いました。&lt;/p&gt;
+&lt;!--
+ノートパソコンは ThinkPad X250 を使っていました。スペックは以下の通り。
+
+* Windows 10 Home
+* Intel Core i5
+* DDR 8GB
+* SSD（購入時はHDD）
+* FulHD 1920x1080
+
+デスクトップパソコンもありますが、Core i7 4770 の 4コア8スレッド PC でこちらも最新ではありません。
+
+* Windows 11を使いたい
+* 解像度を大きくしたい
+* CPUを早くしたい
+* メモリ16GBにしたい
+--&gt;
+&lt;p&gt;開発環境を構築するメモです。&lt;/p&gt;
+&lt;h2&gt;Windows 11&lt;/h2&gt;
+&lt;p&gt;Windows 11は、メールアドレスが必須になっています。Microsoftアカウントが必要で、なければその場で作成する必要があります。
+Microsoftアカウントはもちろん gmail で作成出来ますし、メールアドレスを持っていなければ &lt;code class=&quot;language-text&quot;&gt;@outlook.com&lt;/code&gt; を取得できます。&lt;/p&gt;
+&lt;p&gt;問題は、そのメールアドレスの頭5文字が、&lt;code class=&quot;language-text&quot;&gt;C:\Users\ACCOUNT&lt;/code&gt;のアカウント名に使用されます。
+例えば、&lt;code class=&quot;language-text&quot;&gt;github@dammymail.com&lt;/code&gt; というメールアカウントでアカウントを作成すると &lt;code class=&quot;language-text&quot;&gt;C:\Users\githu&lt;/code&gt; というフォルダになります。なんでやねん。&lt;/p&gt;
+&lt;p&gt;一般ユーザーなら気にしませんが、オタクは気になります。
+一度 5文字のアカウントを作成して、新たに希望するフォルダ名のローカルアカウントを作成します。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Microsoft アカウント（X）でセットアップを一度完了させます。セットアップ時、指紋認証を設定しません。&lt;/li&gt;
+&lt;li&gt;インストールアカウントをローカルアカウントに変更します。そのユーザー名は変更しないままでOK。&lt;/li&gt;
+&lt;li&gt;新規のローカルアカウント（Y）を作成し、このとき希望するアカウント名にすれば、&lt;code class=&quot;language-text&quot;&gt;C:\Users\ACCOUNT&lt;/code&gt; となる。管理者権限を付与します。&lt;/li&gt;
+&lt;li&gt;Microsoft アカウント（X）からログオフし、ローカルアカウント（Y）でログインします&lt;/li&gt;
+&lt;li&gt;Microsoft アカウント（X）を削除します。フォルダをプロセスが持っているので削除出来ないかもしれません。再起動して &lt;code class=&quot;language-text&quot;&gt;C:\Users\（X）&lt;/code&gt;　を手動で削除します。&lt;/li&gt;
+&lt;li&gt;ローカルアカウント（Y）をMicrosoftアカウントに設定し、指紋認証も設定します&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;削除しないアプリ&lt;/h2&gt;
+&lt;p&gt;Dell のノートPCにはプリインストールアプリがあります。以下のアプリは消さないほうが良いようです。&lt;/p&gt;
+&lt;p&gt;ストアアプリとしてインストールされているようで、Microsoft ストア上に存在しません。削除すると再インストールする方法がありませんでした。リカバリーしかありません。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dell CinemaColor&lt;/li&gt;
+&lt;li&gt;Waves Audio - 削除するとイヤホンを認識しなくなり、スピーカーから音が出ます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;ストアアプリ&lt;/h2&gt;
+&lt;p&gt;スタートメニューにあるアプリはピン止めされていて、削除しても消えません。&lt;code class=&quot;language-text&quot;&gt;すべてのアプリ&lt;/code&gt;に無くなれば削除されてます。&lt;/p&gt;
+&lt;p&gt;Microsoft ストアのライブラリからは消せないので開く必要はありません。&lt;/p&gt;
+&lt;p&gt;Powershell でコマンドを実行して削除します。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Get-AppxPackage Clipchamp.Clipchamp | Remove-AppxPackage
+Get-AppxPackage Microsoft.549981C3F5F10 | Remove-AppxPackage
+Get-AppxPackage Disney.37853FC22B2CE | Remove-AppxPackage
+Get-AppxPackage MicrosoftTeams | Remove-AppxPackage
+Get-AppxPackage Microsoft.Todos | Remove-AppxPackage
+Get-AppxPackage Microsoft.MicrosoftOfficeHub | Remove-AppxPackage
+Get-AppxPackage Microsoft.MicrosoftSolitaireCollection | Remove-AppxPackage
+Get-AppxPackage SpotifyAB.SpotifyMusic | Remove-AppxPackage
+Get-AppxPackage Microsoft.GamingApp | Remove-AppxPackage
+Get-AppxPackage Microsoft.XboxGamingOverlay | Remove-AppxPackage
+Get-AppxPackage Microsoft.Xbox.TCUI | Remove-AppxPackage
+Get-AppxPackage Microsoft.XboxGameOverlay | Remove-AppxPackage
+Get-AppxPackage Microsoft.XboxIdentityProvider | Remove-AppxPackage
+Get-AppxPackage Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
+Get-AppxPackage Microsoft.ZuneVideo | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsCamera | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsAlarms | Remove-AppxPackage
+Get-AppxPackage Microsoft.YourPhone | Remove-AppxPackage
+Get-AppxPackage Microsoft.BingWeather | Remove-AppxPackage
+Get-AppxPackage Microsoft.Getstarted | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsFeedbackHub | Remove-AppxPackage
+Get-AppxPackage Microsoft.Windows.Photos | Remove-AppxPackage
+Get-AppxPackage Microsoft.MicrosoftStickyNotes | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsSoundRecorder | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsMaps | Remove-AppxPackage
+Get-AppxPackage microsoft.windowscommunicationsapps | Remove-AppxPackage
+Get-AppxPackage Microsoft.ZuneMusic | Remove-AppxPackage
+Get-AppxPackage Microsoft.BingNews | Remove-AppxPackage
+Get-AppxPackage RivetNetworks.SmartByte | Remove-AppxPackage
+Get-AppxPackage MicrosoftCorporationII.MicrosoftFamily | Remove-AppxPackage
+Get-AppxPackage Microsoft.People | Remove-AppxPackage
+Get-AppxPackage Microsoft.PowerAutomateDesktop | Remove-AppxPackage
+
+# DELL アプリ
+Get-AppxPackage DellInc.DellCustomerConnect | Remove-AppxPackage
+Get-AppxPackage DellInc.DellDigitalDelivery | Remove-AppxPackage
+Get-AppxPackage DellInc.DellSupportAssistforPCs | Remove-AppxPackage
+
+# デルのドライバ更新に使用するので残す
+# Get-AppxPackage DellInc.DellUpdate | Remove-AppxPackage
+
+# サポートを受けるとき使用するので残す
+# Get-AppxPackage DellInc.MyDell | Remove-AppxPackage
+
+# 消すとオーディオUIアプリが起動しなくなるので残す
+# Get-AppxPackage WavesAudio.MaxxAudioProforDell2022 | Remove-AppxPackage&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;コントロールパネルのプログラムのアンインストールまたは変更&lt;/h2&gt;
+&lt;p&gt;ストアアプリ以外のアプリは、これまで通りコンパネからアンインストールします。&lt;/p&gt;
+&lt;p&gt;削除&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;McAfee Security（使わないなら）&lt;/li&gt;
+&lt;li&gt;マカフィーが提供するウェブアドバイザー（使わないなら）&lt;/li&gt;
+&lt;li&gt;Dell Digital Delivery Services&lt;/li&gt;
+&lt;li&gt;Dell SupportAssist&lt;/li&gt;
+&lt;li&gt;Dell SupportAssist OS Recovery Plugin for Dell Update&lt;/li&gt;
+&lt;li&gt;Dell SupportAssist Remediation&lt;/li&gt;
+&lt;li&gt;SmartByte Drivers and Services&lt;/li&gt;
+&lt;li&gt;Microsoft OneDrive（使わないなら）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;残す&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dell Update for Windows 10&lt;/li&gt;
+&lt;li&gt;Fusion Service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;msconfig&lt;/h2&gt;
+&lt;p&gt;スタートアップで起動するアプリで必要ないアプリは無効化します。&lt;/p&gt;
+&lt;h3&gt;サービス&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dell Client Management Service 挙動不明なので変更なし。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;スタートアップ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft Edge は&lt;code class=&quot;language-text&quot;&gt;edge://settings/system&lt;/code&gt;を開いて&lt;code class=&quot;language-text&quot;&gt;スタートアップブースト&lt;/code&gt;を無効化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;アプリのインストール&lt;/h2&gt;
+&lt;p&gt;自分の使うアプリをインストールします。&lt;/p&gt;
+&lt;p&gt;Windows 11 ではパッケージマネージャ winget がインストールされているので、これでインストールします。&lt;/p&gt;
+&lt;p&gt;winget 未対応のアプリは、今まで通りサイトからインストーラをダウンロードしてインストールします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=google.chrome&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=git.git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=openjs.nodejs.lts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=emurasoft.emeditor&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=WinMerge.WinMerge&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=Google.JapaneseIME&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id Mozilla.Firefox&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;winget install --id=vscode --override &quot;/verysilent /norestart /mergetasks=!runcode,addcontextmenufiles,addcontextmenufolders&quot;&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/verysilent&lt;/code&gt; ウィザードを非表示&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/norestart&lt;/code&gt; PC再起動抑止&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/mergetasks=!runcode&lt;/code&gt; インストール後vscodeを起動しない、&lt;code class=&quot;language-text&quot;&gt;!&lt;/code&gt;なしなら起動する&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;addcontextmenufiles&lt;/code&gt; ファイル右クリックメニューにvscodeで開くを追加する&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;addcontextmenufolders&lt;/code&gt; フォルダ右クリックメニューにvscodeで開くを追加する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gitやnodeのコマンドは、winget実行直後ではコマンドが実行できないので　Windows Terminal を開きなおす必要があります。&lt;/p&gt;
+&lt;h2&gt;Windows の node.js / PowerShell 実行時のポリシー変更&lt;/h2&gt;
+&lt;p&gt;自作の PowerShell スクリプトを作成し、 &lt;code class=&quot;language-text&quot;&gt;my-script.ps1&lt;/code&gt; を実行しようとしたとき以下のエラーが表示されます。
+node.js のパッケージをグローバルにインストールしたときも同じエラーが表示されます。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;powershell&quot;&gt;&lt;pre class=&quot;language-powershell&quot;&gt;&lt;code class=&quot;language-powershell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;PS&lt;/span&gt; C:\&gt; my-script&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ps1
+my-script&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ps1 : このシステムではスクリプトの実行が無効になっているため、
+ファイル C:\my-script&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ps1 を読み込むことができません。
+詳細については、「about_Execution_Policies」&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;https:&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;go&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;microsoft&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;com/fwlink/?LinkID=135170&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; を参照してください。
+発生場所 行:1 文字:1
+&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; my-script&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ps1
+&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; ~~~~~~
+    &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; CategoryInfo          : セキュリティ エラー: &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;: &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;、PSSecurityException
+    &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; FullyQualifiedErrorId : UnauthorizedAccess&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;現在の実行ポリシーは以下で確認できます。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;powershell&quot;&gt;&lt;pre class=&quot;language-powershell&quot;&gt;&lt;code class=&quot;language-powershell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;PS&lt;/span&gt;&gt; &lt;span class=&quot;token function&quot;&gt;Get-ExecutionPolicy&lt;/span&gt;
+Restricted&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;PowerShell の実行ポリシーはデフォルトでは実行できない設定になっています。悪意のある攻撃者が、リモートからファイルをダウンロードさせて実行することを防ぐためです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/Targityen/items/3d2e0b5b0b7b04963750&quot;&gt;PowerShell のスクリプトが実行できない場合の対処方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;node.jsのパッケージを実行したいので以下を実行して恒久的に許可します。&lt;/p&gt;
+&lt;p&gt;自分の Windows アカウントに管理者権限が付与されている必要があります。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;powershell&quot;&gt;&lt;pre class=&quot;language-powershell&quot;&gt;&lt;code class=&quot;language-powershell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;set-ExecutionPolicy&lt;/span&gt; RemoteSigned &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;scope CurrentUser&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;確認します&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;powershell&quot;&gt;&lt;pre class=&quot;language-powershell&quot;&gt;&lt;code class=&quot;language-powershell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;PS&lt;/span&gt;&gt; &lt;span class=&quot;token function&quot;&gt;Get-ExecutionPolicy&lt;/span&gt;
+RemoteSigned&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;参考サイト&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://pintoclue.com/dell-first-settings/&quot;&gt;DELLのPCを買ったら最初にすべきこと！このアプリは即アンインストール！&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[謹賀新年]]></title><description><![CDATA[新年あけましておめでとうございます。 年末にプレ公開して SNS 等には載せていませんので誰も見てなさそうですが、2023年もどうぞよろしくお願いします。なるべく更新できるようにしたいです。 1月4日から日常が始まる勢なので、正月気分は一瞬です。 このブログの gatsby.js…]]></description><link>https://www.primenon.com/20230101-01/</link><guid isPermaLink="false">https://www.primenon.com/20230101-01/</guid><pubDate>Sun, 01 Jan 2023 07:43:00 GMT</pubDate><content:encoded>&lt;p&gt;新年あけましておめでとうございます。&lt;/p&gt;
 &lt;p&gt;年末にプレ公開して SNS 等には載せていませんので誰も見てなさそうですが、2023年もどうぞよろしくお願いします。なるべく更新できるようにしたいです。&lt;/p&gt;
 &lt;p&gt;1月4日から日常が始まる勢なので、正月気分は一瞬です。&lt;/p&gt;
 &lt;p&gt;このブログの gatsby.js のカスタマイズとか、Github Pages のこととか、ドメイン事業者の移行とか、この前買った Dell Inspiron 13のレビューとかも書ければ良いな…（※書くとは言っていない）。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2022年を振り返る]]></title><description><![CDATA[所謂、「1年あっという間」でした。2022年を振り返っておきたい。 「ブログに残さなくてもインターネットを探せば載ってるだろ！」と思いがちです。昔はたしかにそうでした。SNS…]]></description><link>https://www.primenon.com/20221231-01/</link><guid isPermaLink="false">https://www.primenon.com/20221231-01/</guid><pubDate>Sat, 31 Dec 2022 07:15:00 GMT</pubDate><content:encoded>&lt;p&gt;所謂、「1年あっという間」でした。2022年を振り返っておきたい。&lt;/p&gt;
