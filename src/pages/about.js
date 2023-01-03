@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -9,13 +9,13 @@ const AboutPage = ({ data, location }) => {
     return (
         <Layout location={location} title={siteTitle} author={author}>
             <Seo title="about" />
-            <div className={StyleSheet.blog__section}>
+            <div className="about">
                 <h1>about</h1>
                 <h2>プロフィール</h2>
 
                 <p>ど、ども…(´･_･`)<br />
-                    親交の深い間では「くろさん」と呼ばれていますが、ぷりえもんさん、ぷりめのんさん、ぷりちゃん、と呼ばれることもあります。
-                    ちなみに、PRiMENON の意味は…</p>
+                親交の深い間では「くろさん」と呼ばれていますが、ぷりえもんさん、ぷりめのんさん、ぷりちゃん、と呼ばれることもあります。
+                ちなみに、PRiMENON の意味は…</p>
 
                 <ul>
                     <li>prime<ul>
@@ -69,7 +69,6 @@ const AboutPage = ({ data, location }) => {
                     <li>mixi: やってたけど退会した</li>
                     <li>Facebook: 興味本位でアカウント作って退会した</li>
                 </ul>
-                <Link to="/">別のページへ</Link>
             </div>
         </Layout>
     )
