@@ -48,13 +48,17 @@ const BlogIndex = ({ data, location }) => {
                   <small>{moment(post.frontmatter.date).format(`YYYY-MM-DDTHH:mm:ss`)}</small>
 
                   <div className="tags-article">
+                    <ul className="tags-list">
                     {tags && tags.length > 0 && tags.map((tag, index) => {
                       return (
-                        <Link to={`/tags/${kebabCase(tag)}/`} itemProp="url" key={index}>
-                          {tag}
-                        </Link>
+                        <li key={index}>
+                          <Link to={`/tags/${kebabCase(tag)}/`} itemProp="url" key={index}>
+                            {tag}
+                          </Link>
+                        </li>
                       )
                     })}
+                    </ul>
                   </div>
 
                 </header>

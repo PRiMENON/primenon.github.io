@@ -50,15 +50,17 @@ const Tags = ({ data, pageContext, location }) => {
                     )}
                   </small>
                   <div className="tags-index">
-                    {tags &&
-                      tags.length > 0 &&
-                      tags.map((tag, index) => {
-                        return (
+                    <ul className="tags-list">
+                    {tags && tags.length > 0 && tags.map((tag, index) => {
+                      return (
+                        <li key={index}>
                           <Link to={`/tags/${kebabCase(tag)}/`} itemProp="url" key={index}>
                             {tag}
                           </Link>
-                        )
-                      })}
+                        </li>
+                      )
+                    })}
+                    </ul>
                   </div>
                 </header>
                 <section>

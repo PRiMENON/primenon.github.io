@@ -371,3 +371,24 @@ a:focus {
 .navbar__li a:hover {
   background: #ddd;
 }
+
+.tags-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tags-list li {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.tags-list a {
+  display: inline-block;
+  background: #6c757d;
+  padding: .3rem .3rem .2rem;
+  border-radius: .3rem;
+  font-size: .8rem;
+  text-decoration: none;
+  color: #fff;
+}
