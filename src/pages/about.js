@@ -8,11 +8,10 @@ const AboutPage = ({ data, location }) => {
     const author = data.site.siteMetadata.author.name
     return (
         <Layout location={location} title={siteTitle} author={author}>
-            <Seo title="about" />
-            <div className="about">
-                <h1>about</h1>
-                <h2>プロフィール</h2>
-
+            <div className="static">
+                <header>
+                    <h1>about</h1>
+                </header>
                 <p>ど、ども…(´･_･`)<br />
                 親交の深い間では「くろさん」と呼ばれていますが、ぷりえもんさん、ぷりめのんさん、ぷりちゃん、と呼ばれることもあります。
                 ちなみに、PRiMENON の意味は…</p>
@@ -75,6 +74,8 @@ const AboutPage = ({ data, location }) => {
 }
 
 export default AboutPage
+
+export const Head = () => <Seo title="About" />
 
 export const pageQuery = graphql`
     query {
