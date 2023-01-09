@@ -41,7 +41,7 @@ const BlogIndex = ({ data, location }) => {
               >
                 <header>
                   <h2>
-                    <Link to={moment(post.frontmatter.date).format(`YYYYMMDDHHmmss`)} itemProp="url">
+                    <Link to={`/blog/${moment(post.frontmatter.date).format(`YYYYMMDDHHmmss`)}`} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>

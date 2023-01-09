@@ -69,7 +69,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const moment = require('moment');
 
       createPage({
-        path: moment(post.frontmatter.date).format('YYYYMMDDHHmmss'),
+        path: `/blog/${moment(post.frontmatter.date).format('YYYYMMDDHHmmss')}`,
         component: blogPost,
         context: {
           id: post.id,

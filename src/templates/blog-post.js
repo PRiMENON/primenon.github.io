@@ -61,14 +61,14 @@ const BlogPostTemplate = ({
         >
           <li>
             {previous && (
-              <Link to={`/${moment(previous.frontmatter.date).format('YYYYMMDDHHmmss')}`} rel="prev">
+              <Link to={`/blog/${moment(previous.frontmatter.date).format('YYYYMMDDHHmmss')}`} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={`/${moment(next.frontmatter.date).format('YYYYMMDDHHmmss')}`} rel="next">
+              <Link to={`/blog/${moment(next.frontmatter.date).format('YYYYMMDDHHmmss')}`} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}
