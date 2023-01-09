@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Jan 2023 13:10:44 GMT</lastBuildDate><item><title><![CDATA[年末年始が終わる]]></title><description><![CDATA[…]]></description><link>https://www.primenon.com/20230103-01/</link><guid isPermaLink="false">https://www.primenon.com/20230103-01/</guid><pubDate>Tue, 03 Jan 2023 12:51:00 GMT</pubDate><content:encoded>&lt;p&gt;今日で年末年始のぐーたら生活は終わりです。食料品を買い出しに行った程度で、インドアをエンジョイしました。コロナ前と生活スタイルは変わらないだけだったりします。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 09 Jan 2023 03:24:12 GMT</lastBuildDate><item><title><![CDATA[山梨県立図書館が管理しているウェブサイトが改ざんされているのを見つけた話（2021年12月）]]></title><description><![CDATA[記憶が薄れる前に記録します。 スマホのケースを探していた、ただそれだけなんだ 時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL…]]></description><link>https://www.primenon.com/20230109-01/</link><guid isPermaLink="false">https://www.primenon.com/20230109-01/</guid><pubDate>Mon, 09 Jan 2023 02:25:00 GMT</pubDate><content:encoded>&lt;p&gt;記憶が薄れる前に記録します。&lt;/p&gt;
+&lt;h2&gt;スマホのケースを探していた、ただそれだけなんだ&lt;/h2&gt;
+&lt;p&gt;時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL に違和感を感じました。&lt;/p&gt;
+&lt;p&gt;画像は正常なウェブサイトの例です。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.139240506329116%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABaUlEQVQoz31S227jIBTM//9eX5I2atbZxsbmcLG5Y8OsIG2l9mGRRqNz4WjmwCmkdJZCQuu1EHFIqeCsQ84JwXuE4DvHmFBK6fjfOTlSr0JYrGsonFtYmyCFw33QmJkFmzbEuKPWiuM4OjeUoyClhJxzz3/VTuvLy/h3HEGcalNHnDAxhsdjglK6K1ZaY1kWCCGglMK6rhBCYhwnSNncaYQQngrN+XpdyIHIFGMC3q8cb68z5lliZhrsE0pacLK43QhKOUyThjERKR0/LRcfztvWrLpircO2GVgbkFNuOXgfkFJG+OTjqP1irXhaL/XnQNRy4Uxi+CPKODYmCDId90FgeqxQ0oMvG6R0UDL03TYWwiPvTWH93u2pMHZ5vL1jZLzwhcC5AmMzhvsHbrcPLIsEYxxEClpvmGcCYwLD/QHGCMZYeO87ngOVujghkPe9pBS/i+0F9z0jxNDjGGN/ydbT8i1uPb+/zT9XfGYsPW0rAwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;20230109 01&quot;
+        title=&quot;20230109 01&quot;
+        src=&quot;/static/782776d870dd598371ff6fd154bce792/f058b/20230109_01.png&quot;
+        srcset=&quot;/static/782776d870dd598371ff6fd154bce792/c26ae/20230109_01.png 158w,
+/static/782776d870dd598371ff6fd154bce792/6bdcf/20230109_01.png 315w,
+/static/782776d870dd598371ff6fd154bce792/f058b/20230109_01.png 630w,
+/static/782776d870dd598371ff6fd154bce792/0786c/20230109_01.png 663w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;赤く囲った部分は、ウェブサイトに含まれる文字列を抽出して表示しています。&lt;code class=&quot;language-text&quot;&gt;amazon.co.jp&lt;/code&gt; なので日本語が含まれているのは当然ですね。&lt;/p&gt;
+&lt;p&gt;海外ドメインであれば、大体は日本語で表示されることは少ないのです。&lt;code class=&quot;language-text&quot;&gt;jp.domain.com&lt;/code&gt; や &lt;code class=&quot;language-text&quot;&gt;www.domain.com/jp/&lt;/code&gt;のように日本語向けのページが用意されているようなら別です。検索結果に表示されているウェブサイトは、トップレベルドメインは &lt;code class=&quot;language-text&quot;&gt;.jp&lt;/code&gt; ではないのに日本語が書いてあったんです。&lt;/p&gt;
+&lt;p&gt;違和感を感じるウェブサイトを、ブラウザのシークレットモードで何個か開くと Not Found や Forbidden でしたが、中には別の URL にリダイレクトしたり、私が利用しているセキュリティ対策ソフト ESET が警告を表示することがありました。&lt;/p&gt;
+&lt;p&gt;「もしかして、日本の企業が所有するドメインもこういった事例があるのではないか」と、いくつか思い当たるトップレベルドメインを Google で検索してみるとヒットしました。自分が遭遇したのは、個人のブログをはじめ、病院、高等学校、私立大学、企業、不動産、飲食店、ホテル、東京都が管理する公園事務所など多種多様でした。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;co.jp&lt;/code&gt; - 企業&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;or.jp&lt;/code&gt; - 財団法人や社団法人など企業以外の法人&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ac.jp&lt;/code&gt; - 18歳以上を対象にした教育機関&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ed.jp&lt;/code&gt; - 18歳未満を対象にした教育機関&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;go.jp&lt;/code&gt; - 日本の政府機関や各省庁所管の研究所、特殊法人、独立行政法人&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ne.jp&lt;/code&gt; - ネットワークサービス提供者&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;gr.jp&lt;/code&gt; - 任意団体&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;地方自治体が所有しているドメインもあります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;地域名.jp&lt;/code&gt; - 誰でも登録可能だったので自治体用ではない。&lt;a href=&quot;https://jprs.jp/whatsnew/notice/2011/20110926-geo.html&quot;&gt;2012年3月31日で新規登録終了&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tokyo.jp&lt;/code&gt; や &lt;code class=&quot;language-text&quot;&gt;kanagawa.jp&lt;/code&gt; など。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;lg.jp&lt;/code&gt; - 都道府県、市区町村、ただし全国で使用されているわけではなく、&lt;code class=&quot;language-text&quot;&gt;地域名.jp&lt;/code&gt;を使い続ける自治体もある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;地方自治体ではさすがにないだろうなと探してみると、山梨県立図書館が管理しているウェブサイト「発見！やまなしナビ」がヒットしました。
+画像のように、URLは「発見！やまなしナビ」なのに、英語のページが大量に作成されています。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 109.49367088607596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACjklEQVQ4y4WUy25URxCG50WIPRgieZeEBSAHiafkBSKxYRmTDTPDjI3yCEEE7LFnzrW7T1/O6Wv1LTrDAgXh41KpVJtPf//V1T07+/3l2dnLZ89f/Prk6fzh46Ofjo8ezI+OT77l/Ft/PH90ND95ePLzk99+OT09nW0uLteby+VytVksFn+evzt/uzh/uzr/a73erNeb5Wq9XK3fH/pDvVgtV4vl+1d/fHj95t0s55xS9D4kB1nKZHSQQ1Iq3x0x5b8/pj0OM++9tcCEFb3UyjhlrdLgwI3p/CFCCPH/kXPWWs9iTNZBUeKyIoiIQYJUzhjnffAhKK0B4HvplFPO2phZTNlS2n76t/38mW2vo9EAwRoL4LwHpZT3/oeHNyOck+Z9+aVorqvqy55igbHsiGJMC2FiTHc5P8AxwiBZ3QhEeIssF8Y4Z8Fa5xz4EKbglJLpWHtVoNuK3FRdgREaUDso5b7OaRKO0VHKykpUDS8r3rSMD30/AHgACNPKMQRLOd41+LbGNxXeE4wlRpJS5RzEGO7x7ERP90VXlLyqrRiMGQ1772G0PO05BkNou2vxtqz/2XYlwUTSbkzOVUr3TDt40fdN03edUwooc4OEEGMIIfh74BS8IbS+Kpqbqr2t6a5pSorQwJnqyKCVnVR2FkQv6tYg7BkHMYA2AONGf62TsFGG8rLA1W1T71qya5vrhhApxLhhE8f23o8Dc4yzqtGYOMoc6Zy2o+Z4z1OeY4yzGLxBpL3ao22BrguyrdqSESL73vTCWOcn4RjBe0apYJx3jPH+sGHSOtDaOgdTcIrRWqgbhpAgXc+5JkjRTvfCGgNT/8lBeZxq13EptdZWKiOVVmM1Spm7HnPOOYTwH38xv3S7qfs4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;FG OWdqacAU2ZeM&quot;
+        title=&quot;FG OWdqacAU2ZeM&quot;
+        src=&quot;/static/89d6100901267a3fff738c9ef61961fc/f058b/FG-OWdqacAU2ZeM.png&quot;
+        srcset=&quot;/static/89d6100901267a3fff738c9ef61961fc/c26ae/FG-OWdqacAU2ZeM.png 158w,
+/static/89d6100901267a3fff738c9ef61961fc/6bdcf/FG-OWdqacAU2ZeM.png 315w,
+/static/89d6100901267a3fff738c9ef61961fc/f058b/FG-OWdqacAU2ZeM.png 630w,
+/static/89d6100901267a3fff738c9ef61961fc/40601/FG-OWdqacAU2ZeM.png 945w,
+/static/89d6100901267a3fff738c9ef61961fc/78612/FG-OWdqacAU2ZeM.png 1260w,
+/static/89d6100901267a3fff738c9ef61961fc/21b4d/FG-OWdqacAU2ZeM.png 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;実際にクリックしたときの挙動です。まったく別の URL にリダイレクトします。この例では、ファッションサイトですが、中にはアダルトグッズだったりスマートフォンのケースだったり電気工具の部品だったりでした。&lt;/p&gt;
+&lt;p&gt;ファッションサイトは実際に存在するサイトをコピーしてきたものかと思います。目的は、クレジットカード情報を搾取する、いわゆるフィッシングサイトと思われます。この動作はまだ優しい？方です。&lt;/p&gt;
+&lt;p&gt;さらには、リダイレクト先に悪意のあるスクリプトが埋め込んであり、閲覧した瞬間にスクリプトが実行されたり、攻撃対象サイト側に悪意のあるスクリプトを仕掛けられる場合もあります。&lt;/p&gt;
+&lt;img src=&quot;/89a2fbd7a42648c6fffcc33988495907/navi-lib-pref-yamanashi-jp.webp&quot; class=&quot;remark-copy-image&quot;&gt;
+&lt;h2&gt;どうやって伝えるのが（自分が）安全なのか&lt;/h2&gt;
+&lt;p&gt;私は、インターネットセキュリティや脆弱性の知識豊富の人間ではありません。インターネットがちょっと詳しいだけです。&lt;/p&gt;
+&lt;p&gt;ウェブサイトが改ざんされている＝お問い合わせフォームも汚染されていると考えて、Twitter アカウントからお知らせ（メンション）したツイートが以下です。&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;. &lt;a href=&quot;https://twitter.com/lib_pref_ymns?ref_src=twsrc%5Etfw&quot;&gt;@lib_pref_ymns&lt;/a&gt; こんばんは。Google検索していたら、御社サイトに様々な英語のページが作成され、Googleにインデックスされています（画像はGoogleで「site:&lt;a href=&quot;https://t.co/oGvYfZoTIY&quot;&gt;https://t.co/oGvYfZoTIY&lt;/a&gt;」を検索）。御社サイトは攻撃者に改ざんされており、自由にファイルを作成できる状態にあるようです。（続く） &lt;a href=&quot;https://t.co/CXMhzSEMWu&quot;&gt;pic.twitter.com/CXMhzSEMWu&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kuro (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1472553760916635648?ref_src=twsrc%5Etfw&quot;&gt;December 19, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Twitter をちゃんと活用している場合は良いのですが、情報発信するだけでメンションを見ていない場合もあります。2日後、Twitter に返信があり続きは DM でやりとりしました。内容は、今回の改ざんで私が被害に遭われていないかの確認でした。&lt;/p&gt;
+&lt;p&gt;その後、UTYテレビ山梨のニュースや読売新聞の記事やYahoo!ニュースにもなったようです。2023年現在、確認できるのは読売新聞の記事だけです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.yomiuri.co.jp/national/20211225-OYT1T50089/&quot;&gt;県図書館の運営サイト、いつのまにか詐欺ページ多数…ツイッター書き込みで被害に気づく&lt;/a&gt;　読売新聞オンライン 2022-12-27&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;UTYテレビ山梨 2021-12-24
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 101.26582278481011%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAADzElEQVQ4y22T208bRxSH/e/1vZXaPrTqS6NIQKKUVJQEEm6FAFUx4aKGUpI0RVHTQFIQFDDCYMLVDsaObfBljSH23mbHe5+d3ZmdarmkrdRPR6MzD5/mHP00IXaBgxhUmG0S6juWraouIcx1fUrZf/CpTz3mE8YYhFqIMUYpnZtf+n1u7XX0cCYSn40kZiPxmZXEXPQgaCKJl8v7L5b2ni9sP1/YnvwjupMsMMaAooUopb7vp9OZ9c3d+OFRMpNPviukclwqWzrI5JPZ4n7qKJnlihUpXxaOy3yudCbIKmNMgVrItm2MsSSJ+fwxAEAG6uWAPiUYUxu5lsUoESXr5NSs1lCtJksijzHWdDOEEHIcRxDFUrGUzhxvJfKlIsdxXPmkUshkD1djiYVVoVwRFaNQBKKk8yIAAGDsaIYVvEwpXVycb2u929fT3/9goK93oL9vYPiHofDg4IPOru72tkR8XzPQyakiAyd1mDxM7RFCNf1cJsSPvZkZGxkMDw09+unZ2MjULxPTE2OPJ0YmZ6f/fDX9gisUJGDl8oCXUPwgFd1Yo5QGY9u2RYi/sfVyoK+5tfl6W/u33Z33unvaOztaejtaR8Pfjz/symbfwrpTKgOoOunM0dvkHiHEMM9lz/N3dl/dv/91S2vTnbaGzs6Wro7b9+419Hbf6um4frvl40RiHda9IgdFyS5xJ4VCwfPci50tSvzF5d9u3Lz21ZcNn33yxa3GO82Nd79p/K7h2o2bTU2ffv5RZHUBqm6pDGTFLnFnHMe5rqublzuTra3Y+PjI2NhoODw0NTn15PGTnx9NDIeHx8dHH478mE4lAXTKFSjJKJ0t5nJZz/N0w7qICmGMHQd7nvdPyJScN8HVdV2eFyCEClDOARhj3bjK2dB1AIASRKiIonhaqQSdoghC4CBkn1XrxwWFF+144mBlZcmnvqYbl7JpmLVaDQCgXgEhVFXVQci2bYQQUHRB0gyL7O3srK/+RamvXbyMMQYAnFYq1SpffV9TFABkGUKo6wbG2A3AgqTVeFWpu1ux6ObafCCbV7IMZJ7nDRMJogwAqEMoybKqqlpQGsaOKGnvq6oko3giFYtGfUpV88POhgEhtCwTIdtxHMu2TdM0dMOyLOQ4ruueVbWT07qqe+vR2MLca+azSxkh5BEv+JuM/bs+4HkeUKAM6pqO3mVyG5tvCCHB2A5CDkKUUuYHsP+DECIImiColuUvLS3/+uwpY0wzjVDVMIGNRNMqQ1g1TBm7EsbS5XlRrohQXoRHPChDK7K7Pbe+CrB3qul/A77PCbf9BcCkAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
+        title=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
+        src=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/f058b/yahoo-co-jp_2021-12-24T1931.png&quot;
+        srcset=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/c26ae/yahoo-co-jp_2021-12-24T1931.png 158w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/6bdcf/yahoo-co-jp_2021-12-24T1931.png 315w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/f058b/yahoo-co-jp_2021-12-24T1931.png 630w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/40601/yahoo-co-jp_2021-12-24T1931.png 945w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/78612/yahoo-co-jp_2021-12-24T1931.png 1260w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/21b4d/yahoo-co-jp_2021-12-24T1931.png 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;今はどうなったか&lt;/h2&gt;
+&lt;p&gt;あれから1年以上経過しましたが、依然としてインターネット上には、改ざんされていることのに気づかず運用しているサイトが存在します。&lt;/p&gt;
+&lt;p&gt;山梨県立図書館の事例は、自治体でしたので早急に対応してもらえました。一方、企業や教育機関のサイトは連絡方法がメールや電話しかなく通報が困難です。どうにもできずに、&lt;a href=&quot;https://www.jpcert.or.jp/&quot;&gt;JPCERT&lt;/a&gt; に連絡したこともあります。&lt;/p&gt;
+&lt;p&gt;兎にも角にも、私はインターネットで欲しい情報が安全に探せるようになって欲しい、ただそれに尽きます。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[年末年始が終わる]]></title><description><![CDATA[…]]></description><link>https://www.primenon.com/20230103-01/</link><guid isPermaLink="false">https://www.primenon.com/20230103-01/</guid><pubDate>Tue, 03 Jan 2023 12:51:00 GMT</pubDate><content:encoded>&lt;p&gt;今日で年末年始のぐーたら生活は終わりです。食料品を買い出しに行った程度で、インドアをエンジョイしました。コロナ前と生活スタイルは変わらないだけだったりします。&lt;/p&gt;
 &lt;p&gt;さて、年末年始で毎日ブログを更新してましたが、今後は不定期になります。ブログを更新しなくても、ブログへの機能追加や検証はやっていると思います。アウトプットしたいことがあったら吐き出したいです。&lt;/p&gt;
 &lt;p&gt;Gatsby.js もとい react を初めて触ったので、色々試してます。自分のスキルアップのためにやっているのでその辺はご容赦いただきたくよしなに。&lt;/p&gt;
 &lt;p&gt;本年もどうぞよろしくお願いします。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ドメインレジストラを変更した]]></title><description><![CDATA[2014年にバリュードメインで取得した primenon.com を Google Domains に変更しました。 バリュードメインは GMO…]]></description><link>https://www.primenon.com/20230102-01/</link><guid isPermaLink="false">https://www.primenon.com/20230102-01/</guid><pubDate>Mon, 02 Jan 2023 12:35:00 GMT</pubDate><content:encoded>&lt;p&gt;2014年にバリュードメインで取得した &lt;a href=&quot;https://www.primenon.com&quot;&gt;primenon.com&lt;/a&gt; を Google Domains に変更しました。&lt;/p&gt;
