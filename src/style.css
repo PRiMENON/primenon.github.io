@@ -433,3 +433,12 @@ a:focus {
   text-decoration: none;
   color: #fff;
 }
+
+.remark-copy-image {
+  max-width: 630px;
+  max-height: 630px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: var(--spacing-8);
+}
