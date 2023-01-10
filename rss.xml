@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 09 Jan 2023 08:36:23 GMT</lastBuildDate><item><title><![CDATA[山梨県立図書館が管理しているウェブサイトが改ざんされているのを見つけた話（2021年12月）]]></title><description><![CDATA[記憶が薄れる前に記録します。 スマホのケースを探していた、ただそれだけなんだ 時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL…]]></description><link>https://www.primenon.com/20230109-01/</link><guid isPermaLink="false">https://www.primenon.com/20230109-01/</guid><pubDate>Mon, 09 Jan 2023 02:25:00 GMT</pubDate><content:encoded>&lt;p&gt;記憶が薄れる前に記録します。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 10 Jan 2023 13:34:01 GMT</lastBuildDate><item><title><![CDATA[山梨県立図書館が管理しているウェブサイトが改ざんされているのを見つけた話（2021年12月）]]></title><description><![CDATA[記憶が薄れる前に記録します。 スマホのケースを探していた、ただそれだけなんだ 時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL…]]></description><link>https://www.primenon.com/20230109-01/</link><guid isPermaLink="false">https://www.primenon.com/20230109-01/</guid><pubDate>Mon, 09 Jan 2023 02:25:00 GMT</pubDate><content:encoded>&lt;p&gt;記憶が薄れる前に記録します。&lt;/p&gt;
 &lt;h2&gt;スマホのケースを探していた、ただそれだけなんだ&lt;/h2&gt;
 &lt;p&gt;時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL に違和感を感じました。&lt;/p&gt;
 &lt;p&gt;画像は正常なウェブサイトの例です。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/782776d870dd598371ff6fd154bce792/20230109_01.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.139240506329116%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABaUlEQVQoz31S227jIBTM//9eX5I2atbZxsbmcLG5Y8OsIG2l9mGRRqNz4WjmwCmkdJZCQuu1EHFIqeCsQ84JwXuE4DvHmFBK6fjfOTlSr0JYrGsonFtYmyCFw33QmJkFmzbEuKPWiuM4OjeUoyClhJxzz3/VTuvLy/h3HEGcalNHnDAxhsdjglK6K1ZaY1kWCCGglMK6rhBCYhwnSNncaYQQngrN+XpdyIHIFGMC3q8cb68z5lliZhrsE0pacLK43QhKOUyThjERKR0/LRcfztvWrLpircO2GVgbkFNuOXgfkFJG+OTjqP1irXhaL/XnQNRy4Uxi+CPKODYmCDId90FgeqxQ0oMvG6R0UDL03TYWwiPvTWH93u2pMHZ5vL1jZLzwhcC5AmMzhvsHbrcPLIsEYxxEClpvmGcCYwLD/QHGCMZYeO87ngOVujghkPe9pBS/i+0F9z0jxNDjGGN/ydbT8i1uPb+/zT9XfGYsPW0rAwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;20230109 01&quot;
+        title=&quot;20230109 01&quot;
+        src=&quot;/static/782776d870dd598371ff6fd154bce792/f058b/20230109_01.png&quot;
+        srcset=&quot;/static/782776d870dd598371ff6fd154bce792/c26ae/20230109_01.png 158w,
+/static/782776d870dd598371ff6fd154bce792/6bdcf/20230109_01.png 315w,
+/static/782776d870dd598371ff6fd154bce792/f058b/20230109_01.png 630w,
+/static/782776d870dd598371ff6fd154bce792/0786c/20230109_01.png 663w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;赤く囲った部分は、ウェブサイトに含まれる文字列を抽出して表示しています。&lt;code class=&quot;language-text&quot;&gt;amazon.co.jp&lt;/code&gt; なので日本語が含まれているのは当然ですね。&lt;/p&gt;
 &lt;p&gt;海外ドメインであれば、大体は日本語で表示されることは少ないのです。&lt;code class=&quot;language-text&quot;&gt;jp.domain.com&lt;/code&gt; や &lt;code class=&quot;language-text&quot;&gt;www.domain.com/jp/&lt;/code&gt;のように日本語向けのページが用意されているようなら別です。検索結果に表示されているウェブサイトは、トップレベルドメインは &lt;code class=&quot;language-text&quot;&gt;.jp&lt;/code&gt; ではないのに日本語が書いてあったんです。&lt;/p&gt;
 &lt;p&gt;違和感を感じるウェブサイトを、ブラウザのシークレットモードで何個か開くと Not Found や Forbidden でしたが、中には別の URL にリダイレクトしたり、私が利用しているセキュリティ対策ソフト ESET が警告を表示することがありました。&lt;/p&gt;
@@ -27,7 +49,31 @@
 &lt;/ul&gt;
 &lt;p&gt;地方自治体ではさすがにないだろうなと探してみると、山梨県立図書館が管理しているウェブサイト「発見！やまなしナビ」がヒットしました。
 画像のように、URLは「発見！やまなしナビ」なのに、英語のページが大量に作成されています。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/89d6100901267a3fff738c9ef61961fc/FG-OWdqacAU2ZeM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 109.49367088607596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACjklEQVQ4y4WUy25URxCG50WIPRgieZeEBSAHiafkBSKxYRmTDTPDjI3yCEEE7LFnzrW7T1/O6Wv1LTrDAgXh41KpVJtPf//V1T07+/3l2dnLZ89f/Prk6fzh46Ofjo8ezI+OT77l/Ft/PH90ND95ePLzk99+OT09nW0uLteby+VytVksFn+evzt/uzh/uzr/a73erNeb5Wq9XK3fH/pDvVgtV4vl+1d/fHj95t0s55xS9D4kB1nKZHSQQ1Iq3x0x5b8/pj0OM++9tcCEFb3UyjhlrdLgwI3p/CFCCPH/kXPWWs9iTNZBUeKyIoiIQYJUzhjnffAhKK0B4HvplFPO2phZTNlS2n76t/38mW2vo9EAwRoL4LwHpZT3/oeHNyOck+Z9+aVorqvqy55igbHsiGJMC2FiTHc5P8AxwiBZ3QhEeIssF8Y4Z8Fa5xz4EKbglJLpWHtVoNuK3FRdgREaUDso5b7OaRKO0VHKykpUDS8r3rSMD30/AHgACNPKMQRLOd41+LbGNxXeE4wlRpJS5RzEGO7x7ERP90VXlLyqrRiMGQ1772G0PO05BkNou2vxtqz/2XYlwUTSbkzOVUr3TDt40fdN03edUwooc4OEEGMIIfh74BS8IbS+Kpqbqr2t6a5pSorQwJnqyKCVnVR2FkQv6tYg7BkHMYA2AONGf62TsFGG8rLA1W1T71qya5vrhhApxLhhE8f23o8Dc4yzqtGYOMoc6Zy2o+Z4z1OeY4yzGLxBpL3ao22BrguyrdqSESL73vTCWOcn4RjBe0apYJx3jPH+sGHSOtDaOgdTcIrRWqgbhpAgXc+5JkjRTvfCGgNT/8lBeZxq13EptdZWKiOVVmM1Spm7HnPOOYTwH38xv3S7qfs4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;FG OWdqacAU2ZeM&quot;
+        title=&quot;FG OWdqacAU2ZeM&quot;
+        src=&quot;/static/89d6100901267a3fff738c9ef61961fc/f058b/FG-OWdqacAU2ZeM.png&quot;
+        srcset=&quot;/static/89d6100901267a3fff738c9ef61961fc/c26ae/FG-OWdqacAU2ZeM.png 158w,
+/static/89d6100901267a3fff738c9ef61961fc/6bdcf/FG-OWdqacAU2ZeM.png 315w,
+/static/89d6100901267a3fff738c9ef61961fc/f058b/FG-OWdqacAU2ZeM.png 630w,
+/static/89d6100901267a3fff738c9ef61961fc/40601/FG-OWdqacAU2ZeM.png 945w,
+/static/89d6100901267a3fff738c9ef61961fc/78612/FG-OWdqacAU2ZeM.png 1260w,
+/static/89d6100901267a3fff738c9ef61961fc/21b4d/FG-OWdqacAU2ZeM.png 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;実際にクリックしたときの挙動です。まったく別の URL にリダイレクトします。この例では、ファッションサイトですが、中にはアダルトグッズだったりスマートフォンのケースだったり電気工具の部品だったりでした。&lt;/p&gt;
 &lt;p&gt;ファッションサイトは実際に存在するサイトをコピーしてきたものかと思います。目的は、クレジットカード情報を搾取する、いわゆるフィッシングサイトと思われます。この動作はまだ優しい？方です。&lt;/p&gt;
 &lt;p&gt;さらには、リダイレクト先に悪意のあるスクリプトが埋め込んであり、閲覧した瞬間にスクリプトが実行されたり、攻撃対象サイト側に悪意のあるスクリプトを仕掛けられる場合もあります。&lt;/p&gt;
@@ -42,7 +88,31 @@
 &lt;li&gt;&lt;a href=&quot;https://www.yomiuri.co.jp/national/20211225-OYT1T50089/&quot;&gt;県図書館の運営サイト、いつのまにか詐欺ページ多数…ツイッター書き込みで被害に気づく&lt;/a&gt;　読売新聞オンライン 2022-12-27&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;UTYテレビ山梨 2021-12-24
-&lt;img src=&quot;/c6b85b73f3fcd3a195cc82c7a2ef4fe2/yahoo-co-jp_2021-12-24T1931.png&quot; alt=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;&gt;&lt;/p&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 101.26582278481011%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAADzElEQVQ4y22T208bRxSH/e/1vZXaPrTqS6NIQKKUVJQEEm6FAFUx4aKGUpI0RVHTQFIQFDDCYMLVDsaObfBljSH23mbHe5+d3ZmdarmkrdRPR6MzD5/mHP00IXaBgxhUmG0S6juWraouIcx1fUrZf/CpTz3mE8YYhFqIMUYpnZtf+n1u7XX0cCYSn40kZiPxmZXEXPQgaCKJl8v7L5b2ni9sP1/YnvwjupMsMMaAooUopb7vp9OZ9c3d+OFRMpNPviukclwqWzrI5JPZ4n7qKJnlihUpXxaOy3yudCbIKmNMgVrItm2MsSSJ+fwxAEAG6uWAPiUYUxu5lsUoESXr5NSs1lCtJksijzHWdDOEEHIcRxDFUrGUzhxvJfKlIsdxXPmkUshkD1djiYVVoVwRFaNQBKKk8yIAAGDsaIYVvEwpXVycb2u929fT3/9goK93oL9vYPiHofDg4IPOru72tkR8XzPQyakiAyd1mDxM7RFCNf1cJsSPvZkZGxkMDw09+unZ2MjULxPTE2OPJ0YmZ6f/fDX9gisUJGDl8oCXUPwgFd1Yo5QGY9u2RYi/sfVyoK+5tfl6W/u33Z33unvaOztaejtaR8Pfjz/symbfwrpTKgOoOunM0dvkHiHEMM9lz/N3dl/dv/91S2vTnbaGzs6Wro7b9+419Hbf6um4frvl40RiHda9IgdFyS5xJ4VCwfPci50tSvzF5d9u3Lz21ZcNn33yxa3GO82Nd79p/K7h2o2bTU2ffv5RZHUBqm6pDGTFLnFnHMe5rqublzuTra3Y+PjI2NhoODw0NTn15PGTnx9NDIeHx8dHH478mE4lAXTKFSjJKJ0t5nJZz/N0w7qICmGMHQd7nvdPyJScN8HVdV2eFyCEClDOARhj3bjK2dB1AIASRKiIonhaqQSdoghC4CBkn1XrxwWFF+144mBlZcmnvqYbl7JpmLVaDQCgXgEhVFXVQci2bYQQUHRB0gyL7O3srK/+RamvXbyMMQYAnFYq1SpffV9TFABkGUKo6wbG2A3AgqTVeFWpu1ux6ObafCCbV7IMZJ7nDRMJogwAqEMoybKqqlpQGsaOKGnvq6oko3giFYtGfUpV88POhgEhtCwTIdtxHMu2TdM0dMOyLOQ4ruueVbWT07qqe+vR2MLca+azSxkh5BEv+JuM/bs+4HkeUKAM6pqO3mVyG5tvCCHB2A5CDkKUUuYHsP+DECIImiColuUvLS3/+uwpY0wzjVDVMIGNRNMqQ1g1TBm7EsbS5XlRrohQXoRHPChDK7K7Pbe+CrB3qul/A77PCbf9BcCkAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
+        title=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
+        src=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/f058b/yahoo-co-jp_2021-12-24T1931.png&quot;
+        srcset=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/c26ae/yahoo-co-jp_2021-12-24T1931.png 158w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/6bdcf/yahoo-co-jp_2021-12-24T1931.png 315w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/f058b/yahoo-co-jp_2021-12-24T1931.png 630w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/40601/yahoo-co-jp_2021-12-24T1931.png 945w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/78612/yahoo-co-jp_2021-12-24T1931.png 1260w,
+/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/21b4d/yahoo-co-jp_2021-12-24T1931.png 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;今はどうなったか&lt;/h2&gt;
 &lt;p&gt;あれから1年以上経過しましたが、依然としてインターネット上には、改ざんされていることのに気づかず運用しているサイトが存在します。&lt;/p&gt;
 &lt;p&gt;山梨県立図書館の事例は、自治体でしたので早急に対応してもらえました。一方、企業や教育機関のサイトは連絡方法がメールや電話しかなく通報が困難です。どうにもできずに、&lt;a href=&quot;https://www.jpcert.or.jp/&quot;&gt;JPCERT&lt;/a&gt; に連絡したこともあります。&lt;/p&gt;
@@ -73,7 +143,39 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/6424951fa4436c3db8dc9f487530baf1/screenshot_2023-01-02_162155.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6424951fa4436c3db8dc9f487530baf1/bb072/screenshot_2023-01-02_162155.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 3.79746835443038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAATElEQVQI11XHsQ5AMBRAUf//RzabyWQQkQimpvJK28eTLldiM5zhVJdmhtlTtytuP3hupZ8cTbcRQkBzYlzku4gQz4iZUUr5Sdnwory0qksHz5oYXwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 01 02 162155&quot;
+        title=&quot;screenshot 2023 01 02 162155&quot;
+        src=&quot;/static/6424951fa4436c3db8dc9f487530baf1/f058b/screenshot_2023-01-02_162155.png&quot;
+        srcset=&quot;/static/6424951fa4436c3db8dc9f487530baf1/c26ae/screenshot_2023-01-02_162155.png 158w,
+/static/6424951fa4436c3db8dc9f487530baf1/6bdcf/screenshot_2023-01-02_162155.png 315w,
+/static/6424951fa4436c3db8dc9f487530baf1/f058b/screenshot_2023-01-02_162155.png 630w,
+/static/6424951fa4436c3db8dc9f487530baf1/40601/screenshot_2023-01-02_162155.png 945w,
+/static/6424951fa4436c3db8dc9f487530baf1/78612/screenshot_2023-01-02_162155.png 1260w,
+/static/6424951fa4436c3db8dc9f487530baf1/bb072/screenshot_2023-01-02_162155.png 1318w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;移行方法&lt;/h2&gt;
 &lt;p&gt;移行方法は、まったくそのままの説明しているブログがあったのでそちらを参考に。&lt;/p&gt;
 &lt;ul&gt;
@@ -113,7 +215,29 @@ Goole Domains は JP ドメインが4000円するので、保有するドメイ�
 &lt;p&gt;日本で1918年に流行したスペインかぜは、収束まで3年がかかったそうです。コロナウイルスは4年目に入るため、1918年の日本の人たちに2023年の私たちは負けたと言っていいのではないでしょうか。&lt;/p&gt;
 &lt;p&gt;1918年の医療技術は今と比べたら比較にならないほどだったのに、現代の私たちより早く収束させています。すごい。&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;1918年に流行したスペインかぜ、日本で終息まで3年かかった。&lt;br&gt;コロナウイルス、日本での確認は2020年1月なので1年と8ヶ月経過。&lt;br&gt;大正時代と令和時代の日本人、どちらか先に終息できるか自分のなかで勝負している。&lt;br&gt;&lt;br&gt;出典：新型コロナウイルス感染症第一例（国立感染症研究所）&lt;a href=&quot;https://t.co/pLfWlFOauz&quot;&gt;https://t.co/pLfWlFOauz&lt;/a&gt; &lt;a href=&quot;https://t.co/GtCJbpmkya&quot;&gt;pic.twitter.com/GtCJbpmkya&lt;/a&gt;&lt;/p&gt;&amp;mdash; ぼっちざPRiMENON (@PRiMENON) &lt;a href=&quot;https://twitter.com/PRiMENON/status/1428336606704898056?ref_src=twsrc%5Etfw&quot;&gt;August 19, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;p&gt;&lt;img src=&quot;/f6a60a4a0e4ed7354f2001a2059ec010/E9J2xDNVcAI5ZAs.png&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQY0x3L226CMACAYd7/qTY1blBaqOgQK6XnA20xHGayuyUk/8V/82Xr9l7X97L3+/6jgygKSJ7UuOB8dD4aO/aUQVTH9JqXTSozL9tg5kGmrLl1/SCsD1I5Y8d7Ry7XH8aV9dG4oLRzY3oQ2nYkTjMTGjc3N8aG2ByT7HQu2vvDec+FFFIxLtI0SaWl0lobLoR1ngvBhQwpKW2ZkCGmGMOzp9n5G7QdsW5kOx4YN9YrY7lUUhmhdJxeXCi+m2XdekqdD9aNbffMAMQ1viJUlyWCqPrKC3xpqgoXoAQQAQhBCT+Px8PxhCqcF2CfGqL643D6B6NABTgDfXtiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;E9J2xDNVcAI5ZAs&quot;
+        title=&quot;E9J2xDNVcAI5ZAs&quot;
+        src=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/f058b/E9J2xDNVcAI5ZAs.png&quot;
+        srcset=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/c26ae/E9J2xDNVcAI5ZAs.png 158w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/6bdcf/E9J2xDNVcAI5ZAs.png 315w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/f058b/E9J2xDNVcAI5ZAs.png 630w,
+/static/f6a60a4a0e4ed7354f2001a2059ec010/a6d36/E9J2xDNVcAI5ZAs.png 650w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;
 出典:&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%8B%E3%81%9C&quot;&gt;スペインかぜ&lt;/a&gt;（ウィキペディア日本語版）&lt;/p&gt;
 &lt;p&gt;2021年よりも外出制限が緩くなり、緊急事態宣言もよっぽどのことがない限り発令しなくなりました。マスクの着用や手指の消毒が生活の一部になって、国民は慣れてきたように思います。NHK のインタビューを受けていた人がこう言ってました。&lt;/p&gt;
 &lt;blockquote&gt;
