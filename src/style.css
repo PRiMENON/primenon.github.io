@@ -435,8 +435,8 @@ a:focus {
 }
 
 .remark-copy-image {
-  max-width: 630px;
-  max-height: 630px;
+  max-width: 100%;
+  width: 630px;
   display: block;
   margin-right: auto;
   margin-left: auto;
