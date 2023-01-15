@@ -14,8 +14,9 @@ module.exports = {
       name: `Kuro`,
       summary: `tail -f /var/log/primenon.log`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://www.primenon.com/`,
+    description: `Kuro が思ったこと、感じたことのチラ裏。`,
+    siteUrl: `https://www.primenon.com`,
+    image: `profile-pic.png`,
     social: {
       twitter: `PRiMENON`,
     },
