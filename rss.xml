@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Kuro が思ったこと、感じたことのチラ裏。]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Jan 2023 08:40:42 GMT</lastBuildDate><item><title><![CDATA[山梨県立図書館が管理しているウェブサイトが改ざんされているのを見つけた話（2021年12月）]]></title><description><![CDATA[記憶が薄れる前に記録します。 スマホのケースを探していた、ただそれだけなんだ 時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL…]]></description><link>https://www.primenon.com/20230109-01/</link><guid isPermaLink="false">https://www.primenon.com/20230109-01/</guid><pubDate>Mon, 09 Jan 2023 02:25:00 GMT</pubDate><content:encoded>&lt;p&gt;記憶が薄れる前に記録します。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Kuro が思ったこと、感じたことのチラ裏。]]></description><link>https://www.primenon.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 Jan 2023 07:07:19 GMT</lastBuildDate><item><title><![CDATA[山梨県立図書館が管理しているウェブサイトが改ざんされているのを見つけた話（2021年12月）]]></title><description><![CDATA[記憶が薄れる前に記録します。 スマホのケースを探していた、ただそれだけなんだ 時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL…]]></description><link>https://www.primenon.com/20230109-01/</link><guid isPermaLink="false">https://www.primenon.com/20230109-01/</guid><pubDate>Mon, 09 Jan 2023 02:25:00 GMT</pubDate><content:encoded>&lt;p&gt;記憶が薄れる前に記録します。&lt;/p&gt;
 &lt;h2&gt;スマホのケースを探していた、ただそれだけなんだ&lt;/h2&gt;
 &lt;p&gt;時は2021年12月にさかのぼります。Google 検索でスマートフォンのケースを探していて検索結果を進んでいくと、ヒットしているウェブサイトの URL に違和感を感じました。&lt;/p&gt;
 &lt;p&gt;画像は正常なウェブサイトの例です。&lt;/p&gt;
@@ -8,12 +8,12 @@
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 41.139240506329116%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABaUlEQVQoz31S227jIBTM//9eX5I2atbZxsbmcLG5Y8OsIG2l9mGRRqNz4WjmwCmkdJZCQuu1EHFIqeCsQ84JwXuE4DvHmFBK6fjfOTlSr0JYrGsonFtYmyCFw33QmJkFmzbEuKPWiuM4OjeUoyClhJxzz3/VTuvLy/h3HEGcalNHnDAxhsdjglK6K1ZaY1kWCCGglMK6rhBCYhwnSNncaYQQngrN+XpdyIHIFGMC3q8cb68z5lliZhrsE0pacLK43QhKOUyThjERKR0/LRcfztvWrLpircO2GVgbkFNuOXgfkFJG+OTjqP1irXhaL/XnQNRy4Uxi+CPKODYmCDId90FgeqxQ0oMvG6R0UDL03TYWwiPvTWH93u2pMHZ5vL1jZLzwhcC5AmMzhvsHbrcPLIsEYxxEClpvmGcCYwLD/QHGCMZYeO87ngOVujghkPe9pBS/i+0F9z0jxNDjGGN/ydbT8i1uPb+/zT9XfGYsPW0rAwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 41.139240506329116%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABcElEQVR42nVS2Y6cMBDk/39wpWgzMzABfGC7bfCBwVRksyslkdIvrT5cqq5y50N8am1AZIsUEsYQvPfIeUcMASnGlnPOKKXgui78Ny6gW6XuhbAwxhfOLbY1QfAVQ2/AZod5dohxx3EcDfQ8zwZc6xAjUkpf/YILFzr6+JAjY9BKXUQEpRQYYxjHubKGIQJZgpSVvYElgrW27c2Mgb7qlPZGsnM/nsOiE7T2pbJ7fEo8fkooZSGFA2cEKVY4GyHkivfbgIwH5w7blpFz+evq7tzzUy0G1rqilIEUCpY2hBCxuhXb5hFDgrMO3iccxw3wLWUpf2h6XeiuUl6SW7wH0zScJoKlm0H/Upinqm/AsmwgClCLxzS6loXYcBy3pt+GdbnvX78+H5i5KotUkFJjnjmG94i+nyClgRALtCIQOQihwJnCMNyzekEIATGmG7Bo/fJEOMtZ9n1HrN8kxubicWTEFNuDOqsO3/lo7tadf+M3Yv1mah3odvYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;20230109 01&quot;
-        title=&quot;20230109 01&quot;
+        title=&quot;&quot;
         src=&quot;/static/782776d870dd598371ff6fd154bce792/f058b/20230109_01.png&quot;
         srcset=&quot;/static/782776d870dd598371ff6fd154bce792/c26ae/20230109_01.png 158w,
 /static/782776d870dd598371ff6fd154bce792/6bdcf/20230109_01.png 315w,
@@ -55,12 +55,12 @@
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 109.49367088607596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACjklEQVQ4y4WUy25URxCG50WIPRgieZeEBSAHiafkBSKxYRmTDTPDjI3yCEEE7LFnzrW7T1/O6Wv1LTrDAgXh41KpVJtPf//V1T07+/3l2dnLZ89f/Prk6fzh46Ofjo8ezI+OT77l/Ft/PH90ND95ePLzk99+OT09nW0uLteby+VytVksFn+evzt/uzh/uzr/a73erNeb5Wq9XK3fH/pDvVgtV4vl+1d/fHj95t0s55xS9D4kB1nKZHSQQ1Iq3x0x5b8/pj0OM++9tcCEFb3UyjhlrdLgwI3p/CFCCPH/kXPWWs9iTNZBUeKyIoiIQYJUzhjnffAhKK0B4HvplFPO2phZTNlS2n76t/38mW2vo9EAwRoL4LwHpZT3/oeHNyOck+Z9+aVorqvqy55igbHsiGJMC2FiTHc5P8AxwiBZ3QhEeIssF8Y4Z8Fa5xz4EKbglJLpWHtVoNuK3FRdgREaUDso5b7OaRKO0VHKykpUDS8r3rSMD30/AHgACNPKMQRLOd41+LbGNxXeE4wlRpJS5RzEGO7x7ERP90VXlLyqrRiMGQ1772G0PO05BkNou2vxtqz/2XYlwUTSbkzOVUr3TDt40fdN03edUwooc4OEEGMIIfh74BS8IbS+Kpqbqr2t6a5pSorQwJnqyKCVnVR2FkQv6tYg7BkHMYA2AONGf62TsFGG8rLA1W1T71qya5vrhhApxLhhE8f23o8Dc4yzqtGYOMoc6Zy2o+Z4z1OeY4yzGLxBpL3ao22BrguyrdqSESL73vTCWOcn4RjBe0apYJx3jPH+sGHSOtDaOgdTcIrRWqgbhpAgXc+5JkjRTvfCGgNT/8lBeZxq13EptdZWKiOVVmM1Spm7HnPOOYTwH38xv3S7qfs4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 109.49367088607596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACvUlEQVR42oWSyW4eRRSF+0XAToIlhkUkUARSLMFT8gQsWLEDEhDx8LeTFXsw9j9Wd1d3VXUN3TXdGhq1Y0Tk+HeOSiXV4tM599wqnj//9vj4u6+/OX765bNHj48OPjqcz+GT/8+j+f744PHN85ODwydHR58+++rpZ59/UVxcvCkv3pyenF68Oj35+ZeTFy9Pfn1x/vK3clEuFuX5+eL0rDxflItyfpbl67Ozs99fLb7/4fWPP/1RxJRSyh58ci4MQ7Q2jGMydvpPOU/vKudkXPrzalrVYxFitBa4sFIORlunrTPOOw8BACDMgvSepmkSUhY5T9Y6hAiqCaFqGLzW3lofYwwxaKMhhGm6Yz6HkVIVKU+WkvbyEv9zKbebYI33wVkH4AG8sSbGeC+slCrylEcmq6uqWVb1smJEdd1IiRbCCGHynYnvwHNbUgrcSkIl7pxU1nrv5oG9h/dt34FFkXM2HWuvUbeuybqmFe26AWOptQshpJj2wVKKIsfoKON1LepGoFq2hMtRqXFuGeBtsfc7z23HaJnoNg3dNjfOrCMjJUPfawCI8WE4Rcc5Q4ihStaNV4N1YN28KoDwwMy3sQ1h7abtlgj/tSKIUqYZGxkbpdAPtH0Lg5AS46HvwVjg3A9jiCnFWR+CU9Qdq69Rt6nadc22La76rlOcj5QOxsD+VckiWQtCKdxaQoOQoAYwdl5wiPPID7StZJGt0UxUu65ZN80Wkw3Gq46y+YdJadJ9sd/KOTvH9qwXDTaE+p4D7b31EGKYnUPeD4cARY5BY9Je7/AStctdt6xxxSnRSlolrfdhHwwARc7JOy/6XnEpey7VwLkaBuO9d84DfBgOlGrOjZROKRAClAzaRIC9mW9jY4xws7u6+nu3WyG0qqo1QpuqWm+3K7TbiJ4OgivR30Tjqqc9JaNgZhCyJ/8CuNO7NVM4ryIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;FG OWdqacAU2ZeM&quot;
-        title=&quot;FG OWdqacAU2ZeM&quot;
+        title=&quot;&quot;
         src=&quot;/static/89d6100901267a3fff738c9ef61961fc/f058b/FG-OWdqacAU2ZeM.png&quot;
         srcset=&quot;/static/89d6100901267a3fff738c9ef61961fc/c26ae/FG-OWdqacAU2ZeM.png 158w,
 /static/89d6100901267a3fff738c9ef61961fc/6bdcf/FG-OWdqacAU2ZeM.png 315w,
@@ -94,12 +94,12 @@
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 101.26582278481011%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAADzElEQVQ4y22T208bRxSH/e/1vZXaPrTqS6NIQKKUVJQEEm6FAFUx4aKGUpI0RVHTQFIQFDDCYMLVDsaObfBljSH23mbHe5+d3ZmdarmkrdRPR6MzD5/mHP00IXaBgxhUmG0S6juWraouIcx1fUrZf/CpTz3mE8YYhFqIMUYpnZtf+n1u7XX0cCYSn40kZiPxmZXEXPQgaCKJl8v7L5b2ni9sP1/YnvwjupMsMMaAooUopb7vp9OZ9c3d+OFRMpNPviukclwqWzrI5JPZ4n7qKJnlihUpXxaOy3yudCbIKmNMgVrItm2MsSSJ+fwxAEAG6uWAPiUYUxu5lsUoESXr5NSs1lCtJksijzHWdDOEEHIcRxDFUrGUzhxvJfKlIsdxXPmkUshkD1djiYVVoVwRFaNQBKKk8yIAAGDsaIYVvEwpXVycb2u929fT3/9goK93oL9vYPiHofDg4IPOru72tkR8XzPQyakiAyd1mDxM7RFCNf1cJsSPvZkZGxkMDw09+unZ2MjULxPTE2OPJ0YmZ6f/fDX9gisUJGDl8oCXUPwgFd1Yo5QGY9u2RYi/sfVyoK+5tfl6W/u33Z33unvaOztaejtaR8Pfjz/symbfwrpTKgOoOunM0dvkHiHEMM9lz/N3dl/dv/91S2vTnbaGzs6Wro7b9+419Hbf6um4frvl40RiHda9IgdFyS5xJ4VCwfPci50tSvzF5d9u3Lz21ZcNn33yxa3GO82Nd79p/K7h2o2bTU2ffv5RZHUBqm6pDGTFLnFnHMe5rqublzuTra3Y+PjI2NhoODw0NTn15PGTnx9NDIeHx8dHH478mE4lAXTKFSjJKJ0t5nJZz/N0w7qICmGMHQd7nvdPyJScN8HVdV2eFyCEClDOARhj3bjK2dB1AIASRKiIonhaqQSdoghC4CBkn1XrxwWFF+144mBlZcmnvqYbl7JpmLVaDQCgXgEhVFXVQci2bYQQUHRB0gyL7O3srK/+RamvXbyMMQYAnFYq1SpffV9TFABkGUKo6wbG2A3AgqTVeFWpu1ux6ObafCCbV7IMZJ7nDRMJogwAqEMoybKqqlpQGsaOKGnvq6oko3giFYtGfUpV88POhgEhtCwTIdtxHMu2TdM0dMOyLOQ4ruueVbWT07qqe+vR2MLca+azSxkh5BEv+JuM/bs+4HkeUKAM6pqO3mVyG5tvCCHB2A5CDkKUUuYHsP+DECIImiColuUvLS3/+uwpY0wzjVDVMIGNRNMqQ1g1TBm7EsbS5XlRrohQXoRHPChDK7K7Pbe+CrB3qul/A77PCbf9BcCkAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 101.26582278481011%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD4UlEQVR42nWT7U8cRRzH+fOMvvCF0dQ0sZW0psRosS+MQahXEdQWAvQaCPUhWiycRY6jwFVapFJb7lq44zjgeCjc8z7M7s7O7uzzzs6O2UPCKz+Z7Lz65Lfz/c60sRZke9tb/VupVWWIgCDWG9A0fd+nYRgGAfV9SgMaBISx0CdM1UPGmKoZbYyxkDFZkoUmr8gqgAYvwDqn8pLWFJEoa7KqKwgDReOB2uDlWlNAms4Yg6oeyZTSZHJ+YuZx4s+NycXMVDo7lc5MPXqZfLKRSGcnFzL3Hj5PPHp5fyEzuZgZf/B0bfOIMaZArc3zPEqDRr2+sb5eKZc5rgEAgBDKssRxHJClJs8jHWPsIs2FyDFM07asIAhUhNscx3FdF2OsQogNm4d2GJ7kwEI/oLpJVRzYTp3TdvdhtY6PK1yz2fQ9DxtWm23bvu8XtoqzydT0dGoikZpNzqVm5xYXFlPTf/w2evfnofhuoYiwXa5BGZocLwDA+56n45ZMabj0eDZ2vXvg5sDIcHzg1sjwYHx06M7YcHx06HZ8cHC7uIU0u1JVgOzm8rls9hmlVMdmJAdB+Dw7c3dscPC7b8fu/BIf+fGH8Ymx2z+NDo+nEvMPf09Wjl9Lil06gJLsvsoVV1aXKaXYiGQrCMJna8kbsUufdZ6/9vmFnp6rXd0dX3S1x7qv9MY+uvF1e6HwQtO8Sk1RoPP6qHx4tEd8ciqTcC2bjMU+7eq63tPd1dfb9/03/f29X93qi93s/7Lz2nuv1ldV5B9XoAKdcrl2eHhIiK+3ArMoDVPzE1c62t8/d+GtN9/uuHz148udHZc+OX/ugw8vXnzn3TeWlhYgIodHigDsnVL54GCfEHKWdrVSzWYz+XyuWCzs7GyXSruFwmY+n9va2sxv5gAQZUUHQEXIbDQFjuN8zzNM67+enRaWZbktTNN0HCcggeM4vu97nttoihwPBRGVK9X9gxIhRDeMs0siiqLcguf5WrUmiiIAQBRFRVFs2xIBPq5AFbmFwtbK05WoKsM8lXXcqDdEQVBViLFhGIau64ZhBEHg+77rupKMBaDrRri8lE6n7oeMaSey53mSJDUbDQBgvc4DIAJRlCRJ03TTMC3L8jxPljUgaQq0Dvb39kuF6LfNE9l1VVUFAFiWjZAezcQYIaRpmq5Hb8Lz3CanH1eQDMliennq3q8smnx6ZsuyDWy4bhQPIcT1Ihw32kkLESBB1DTdLZX2Cpv54GSy6ziu41BK2f9DCFEUJMvIsvx/XmQSD6ZZGEayadtWq5CoJUIIDaMVnn0DxlxC6rzW4DVFC578tTw7N0NDphrmv9JwCbqtHfy3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
-        title=&quot;県立図書館のウェブサイトからフィッシング詐欺サイトに移動　何者かが改ざんか　山梨&quot;
+        title=&quot;&quot;
         src=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/f058b/yahoo-co-jp_2021-12-24T1931.png&quot;
         srcset=&quot;/static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/c26ae/yahoo-co-jp_2021-12-24T1931.png 158w,
 /static/c6b85b73f3fcd3a195cc82c7a2ef4fe2/6bdcf/yahoo-co-jp_2021-12-24T1931.png 315w,
@@ -156,12 +156,12 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 3.79746835443038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAATElEQVQI11XHsQ5AMBRAUf//RzabyWQQkQimpvJK28eTLldiM5zhVJdmhtlTtytuP3hupZ8cTbcRQkBzYlzku4gQz4iZUUr5Sdnwory0qksHz5oYXwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 3.79746835443038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAATklEQVR42kXHsQ5AMBRAUf//TyJWxCZiEAkiItpqX0Pb5RoMhjOcTBtL0SzU3cZze5Q25NXMMO04a7isULYr/fjdiRBjIqVfCJHTeA4lvK/zSvrMG9kCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;screenshot 2023 01 02 162155&quot;
-        title=&quot;screenshot 2023 01 02 162155&quot;
+        title=&quot;&quot;
         src=&quot;/static/6424951fa4436c3db8dc9f487530baf1/f058b/screenshot_2023-01-02_162155.png&quot;
         srcset=&quot;/static/6424951fa4436c3db8dc9f487530baf1/c26ae/screenshot_2023-01-02_162155.png 158w,
 /static/6424951fa4436c3db8dc9f487530baf1/6bdcf/screenshot_2023-01-02_162155.png 315w,
@@ -221,12 +221,12 @@ Goole Domains は JP ドメインが4000円するので、保有するドメイ�
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQY0x3L226CMACAYd7/qTY1blBaqOgQK6XnA20xHGayuyUk/8V/82Xr9l7X97L3+/6jgygKSJ7UuOB8dD4aO/aUQVTH9JqXTSozL9tg5kGmrLl1/SCsD1I5Y8d7Ry7XH8aV9dG4oLRzY3oQ2nYkTjMTGjc3N8aG2ByT7HQu2vvDec+FFFIxLtI0SaWl0lobLoR1ngvBhQwpKW2ZkCGmGMOzp9n5G7QdsW5kOx4YN9YrY7lUUhmhdJxeXCi+m2XdekqdD9aNbffMAMQ1viJUlyWCqPrKC3xpqgoXoAQQAQhBCT+Px8PxhCqcF2CfGqL643D6B6NABTgDfXtiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA90lEQVR42iXMy1KDMBQAUP7/txxrQamQm6RFWiDJzTtQa5tSXTmOm7M8Rb5/57xe83rL6/r4kWiq1/rQ9aiddcGFhMaNk6zeaufjNa/G+sv1pv2XtOcCWNcPQtsg0aL1h+7YEHoapQuzcQGN83E+nibGu7h8CmV2DWjrobebXV88PZdAuXVeSCVRj5NI84LaSIXGuknIf4VUISalzTBOzscY42kYim1V8/1HiEkqVKiFRB/i36VQG6tQL+eLsV6hSfM53x9K6RBSTMtxEMU74ZQdgNKWEAJQ794531PGmqYlLbSEtABlVZVlBZS1ANttSYBSzjYv5S/fCwbSIdEs0wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;E9J2xDNVcAI5ZAs&quot;
-        title=&quot;E9J2xDNVcAI5ZAs&quot;
+        title=&quot;&quot;
         src=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/f058b/E9J2xDNVcAI5ZAs.png&quot;
         srcset=&quot;/static/f6a60a4a0e4ed7354f2001a2059ec010/c26ae/E9J2xDNVcAI5ZAs.png 158w,
 /static/f6a60a4a0e4ed7354f2001a2059ec010/6bdcf/E9J2xDNVcAI5ZAs.png 315w,
