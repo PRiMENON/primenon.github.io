@@ -37,7 +37,7 @@ const Seo = ({ description, title, children, topFlag }) => {
 
   return (
     <>
-      <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
+      <title>{title ? `${title} | ${defaultTitle}` : `${defaultTitle}`}</title>
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={defaultTitle ? `${title} | ${defaultTitle}` : title} />
       <meta property="og:site_name" content={defaultTitle} />
